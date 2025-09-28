@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: -
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-with-flexbox-custom-fonts-and-hover-states-g70KLkdKFm
 - Live Site URL: https://ardi808.github.io/social-links-profile-main/
 
 ## My process
